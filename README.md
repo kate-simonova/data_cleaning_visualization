@@ -4,4 +4,4 @@
 [data_cleaning](Simonova_DU1.ipynb) contains an approach for cleaning a very "dirty" dataset
 [dimensionality_reduction](Simonova_Ekaterina.ipynb) contains the approach to effectively reduce dimensionality of data
 
-Another project is avaliable on https://medium.com/analytics-vidhya/multiple-linear-regression-tutorial-with-resedential-building-dataset-53b7a0e530e1
+Another project is avaliable on [Medium](https://medium.com/analytics-vidhya/multiple-linear-regression-tutorial-with-resedential-building-dataset-53b7a0e530e1)
